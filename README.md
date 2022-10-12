@@ -1,6 +1,6 @@
 # What is a Router?
 
-[![what is a router](redd.png)](https://github.com/resolutionsite/what.is.a.router)
+[![what is a router](redd.png)](https://icncomputer.com/what-is-a-router/)
 
 
 A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection.
